@@ -1,0 +1,20 @@
+# deepself — generated data (regenerable; not source of truth in VCS)
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual env
+.venv/
+
+# Env / secrets
+.env
+
+# OS
+.DS_Store

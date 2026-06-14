@@ -1,0 +1,13 @@
+fastapi
+nicegui
+sqlalchemy
+alembic
+sqlite-vec
+sentence-transformers
+pandas
+openpyxl          # xlsx
+pydantic
+pydantic-settings
+python-multipart  # FastAPI uploads
+pytest
+httpx             # test client
