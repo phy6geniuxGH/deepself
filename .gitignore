@@ -2,6 +2,9 @@
 data/*
 !data/.gitkeep
 
+# graphify — generated knowledge graph (regenerable via /graphify --update)
+graphify-out/
+
 # Python
 __pycache__/
 *.py[cod]
